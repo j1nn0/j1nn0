@@ -5,8 +5,8 @@
 ### Languages & Frameworks
 ![Languages & Frameworks](https://skillicons.dev/icons?i=php,laravel,js,vue,cs,dotnet)
 
-### Databases & ORM
-![Databases & ORM](https://skillicons.dev/icons?i=mysql)
+### Databases
+![Databases](https://skillicons.dev/icons?i=mysql)
 
 ### Cloud & Infrastructure
 ![Cloud & Infrastructure](https://skillicons.dev/icons?i=aws,linux,nginx,docker)

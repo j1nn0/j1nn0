@@ -16,4 +16,4 @@
 ![Development Tools](https://skillicons.dev/icons?i=vscode,git)
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=j1nn0&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=j1nn0&show_icons=true&theme=gruvbox)

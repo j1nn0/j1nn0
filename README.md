@@ -5,11 +5,11 @@
 ### Languages & Frameworks
 ![Tech Stack](https://skillicons.dev/icons?i=php,laravel,js,vue,cs,dotnet)
 
-### Database
-![Tech Stack](https://skillicons.dev/icons?i=mysql)
+### Databases & ORM
+![Databases & ORM](https://skillicons.dev/icons?i=mysql)
 
-### Platform
-![Tech Stack](https://skillicons.dev/icons?i=aws)
+### Cloud & Infrastructure
+![Cloud & Infrastructure](https://skillicons.dev/icons?i=aws)
 
 ### Development Tools
 ![Tech Stack](https://skillicons.dev/icons?i=vscode,git)

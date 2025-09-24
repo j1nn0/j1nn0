@@ -8,8 +8,8 @@
 ### Databases & ORM
 ![Databases & ORM](https://skillicons.dev/icons?i=mysql)
 
-### Cloud & Infrastructure
-![Cloud & Infrastructure](https://skillicons.dev/icons?i=aws,linux)
+### ⚙️ DevOps & Infrastructure
+![Tech Stack](https://skillicons.dev/icons?i=aws,linux,nginx,docker)
 
 ### Development Tools
 ![Tech Stack](https://skillicons.dev/icons?i=vscode,git)

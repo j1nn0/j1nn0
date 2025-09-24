@@ -10,7 +10,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" style="vertical-align: middle;" width="48" height="48" />
 
 ### Cloud & Infrastructure
-![Cloud & Infrastructure](https://skillicons.dev/icons?i=aws,linux,nginx,docker)
+![Cloud & Infrastructure](https://skillicons.dev/icons?i=aws,linux,docker,nginx)
 
 ### Development Tools
 ![Development Tools](https://skillicons.dev/icons?i=vscode,git)

@@ -1,4 +1,4 @@
-# j1nn0 – PHP & Vue Developer 👨‍💻
+# j1nn0 | Web Developer (PHP, Vue, AWS)
 
 ## 🛠️ Tech Stack
 

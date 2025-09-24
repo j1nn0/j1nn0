@@ -7,6 +7,7 @@
 
 ### Databases
 ![Databases](https://skillicons.dev/icons?i=mysql)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" />
 
 ### Cloud & Infrastructure
 ![Cloud & Infrastructure](https://skillicons.dev/icons?i=aws,linux,nginx,docker)

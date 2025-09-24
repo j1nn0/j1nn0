@@ -1,4 +1,4 @@
-# j1nn0 | Web Developer (PHP, Vue, AWS)
+# j1nn0 – PHP & Vue Developer 👨‍💻
 
 ## 🛠️ Tech Stack
 
@@ -7,10 +7,10 @@
 
 ### Databases
 ![Databases](https://skillicons.dev/icons?i=mysql)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" style="vertical-align: middle;" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" style="vertical-align: middle;" />
 
 ### Cloud & Infrastructure
-![Cloud & Infrastructure](https://skillicons.dev/icons?i=aws,linux,docker,nginx)
+![Cloud & Infrastructure](https://skillicons.dev/icons?i=aws,linux,nginx,docker)
 
 ### Development Tools
 ![Development Tools](https://skillicons.dev/icons?i=vscode,git)
